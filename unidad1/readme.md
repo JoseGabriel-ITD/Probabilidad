@@ -1,4 +1,5 @@
-Competencias: Comprende los conceptos básicos de la estadística descriptiva para el análisis, organización y presentación de datos.
+**Competencias: Comprende los conceptos básicos de la estadística descriptiva para el análisis, organización y presentación de datos.**  
+*Actividades de aprendizaje*
 
 1. Obtener información de diferentes fuentes sobre los conceptos básicos de estadística: definición, teoría de decisión, población,
 muestra aleatoria, parámetros aleatorios.
