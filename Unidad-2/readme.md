@@ -1,4 +1,4 @@
-**Utiliza los conceptos básicos de la teoría de la probabilidad para aplicarlos en la solución de problemas de ingeniería biomédica, computación y comunicaciones.**
+**Utiliza los conceptos básicos de la teoría de la probabilidad para aplicarlos en la solución de problemas de ingeniería biomédica, computación y comunicaciones.**  
 *Actividades de aprendiazje*
 1. Buscar información y presentarla en grupos de trabajo sobre el desarrollo histórico de la probabilidad.
 2. Buscar en distintas fuentes los conceptos básicos de: espacio muestral, evento, simbología, operaciones y diagramas de Venn.
